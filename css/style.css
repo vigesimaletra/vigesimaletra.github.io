@@ -873,6 +873,15 @@
 		.fa-vimeo-square:before{content:"\f194"}
 		.fa-turkish-lira:before,.fa-try:before{content:"\f195"}
 
+
+.no-sidebar #header-wrapper {
+	background: url('../images/background2.jpg') 0% 40%;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+
+}
+
 /*********************************************************************************/
 /* Wrappers                                                                      */
 /*********************************************************************************/
@@ -1190,8 +1199,6 @@
 					color: #fff;
 				}
 
-
-
 html,
 body {
 	height: 100%;
@@ -1306,7 +1313,6 @@ body.no-sidebar #content article header h3 {
 body.no-sidebar #content article p {
 	text-indent: 2em;
 	text-align: justify;
-	
 }
 
 body.no-sidebar #content article p,
